@@ -45,3 +45,15 @@ ul{
   margin: 0 auto;
   padding: 0 15px;
 }
+.logo{
+  font-size: 48px;
+  color: white;
+}
+body{
+  background: black;
+}
+.header__nav-list{
+  font-size: 30px;
+  color: white;
+  text-transform: uppercase;
+}
